@@ -7,4 +7,4 @@ This is HW1 for 416 on Linear Regression.
 4. [TeX File](https://k-l-chen.github.io/I2ML-Work/HW1/hw1.tex)
 5. [PDF of TeX File](https://k-l-chen.github.io/I2ML-Work/HW1/hw1.pdf)
 
-## [Link to repository proper](https://k-l-chen.github.io/I2ML-Work/HW1)
+## [Link to repository proper](https://github.com/K-L-Chen/I2ML-Work/edit/main/HW1/)
