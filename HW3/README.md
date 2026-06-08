@@ -8,4 +8,4 @@ SVM, Kernel, and  Recommendation
 ## Files to make it work:
 [https://www.cs.wm.edu/~liqun/teaching/cs416/hw3/](https://www.cs.wm.edu/~liqun/teaching/cs416/hw3/)
 
-## [Link to repository proper](https://k-l-chen.github.io/I2ML-Work/HW3)
+## [Link to repository proper](https://github.com/K-L-Chen/I2ML-Work/tree/main/HW3)
